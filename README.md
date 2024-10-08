@@ -1,2 +1,17 @@
 # PredmetyLN
 https://docs.google.com/document/d/1V-1v0p9TiU7XIUcAs_vzaWe1B1sQmmDFIgHCv1c7yXQ/edit?usp=sharing
+##***Впр 1,2***
+https://docs.google.com/document/d/1e-Eb17m61nzi-lGPWo70WfSpA4Ozx6DEIIFSiIyuAQ0/edit?usp=drive_link
+____
+##***Конспект по Базам Даных***
+https://docs.google.com/document/d/1hb3_NNW-kKeu7RTFWZ8GjTDaxY_6FCIknt0_Z6yoENA/edit?usp=drive_link
+____
+##***История операционных систем***
+https://docs.google.com/document/d/1V-1v0p9TiU7XIUcAs_vzaWe1B1sQmmDFIgHCv1c7yXQ/edit?usp=drive_link
+____
+##***Таблицы по базе данных "Учёт"***
+https://docs.google.com/spreadsheets/d/1nK7COZpz-MSIJSVa7E7qOnirac-tLtC4TZvBfDrgbpA/edit?usp=drive_link
+____
+##***Таблицы по базе данных "Конкурсы"***
+https://docs.google.com/spreadsheets/d/1GDBeNxO-xElJzkDYN1f9PEUQ81y94sUfHfLWbK9wUcY/edit?usp=drive_link
+____
