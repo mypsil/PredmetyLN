@@ -1,5 +1,7 @@
 # PredmetyLN
-https://docs.google.com/document/d/1V-1v0p9TiU7XIUcAs_vzaWe1B1sQmmDFIgHCv1c7yXQ/edit?usp=sharing
+##***БД***
+https://drive.google.com/drive/folders/110OPMAtBYSp6aiewWBUhB8sGc5T5t6au?usp=drive_link
+____
 ##***Впр 1,2***
 https://docs.google.com/document/d/1e-Eb17m61nzi-lGPWo70WfSpA4Ozx6DEIIFSiIyuAQ0/edit?usp=drive_link
 ____
@@ -10,7 +12,7 @@ ____
 https://docs.google.com/document/d/1V-1v0p9TiU7XIUcAs_vzaWe1B1sQmmDFIgHCv1c7yXQ/edit?usp=drive_link
 ____
 ##***Таблицы по базе данных "Учёт"***
-https://docs.google.com/spreadsheets/d/1nK7COZpz-MSIJSVa7E7qOnirac-tLtC4TZvBfDrgbpA/edit?usp=drive_link
+https://docs.google.com/spreadsheets/d/1GDBeNxO-xElJzkDYN1f9PEUQ81y94sUfHfLWbK9wUcY/edit?usp=drive_link
 ____
 ##***Таблицы по базе данных "Конкурсы"***
 https://docs.google.com/spreadsheets/d/1GDBeNxO-xElJzkDYN1f9PEUQ81y94sUfHfLWbK9wUcY/edit?usp=drive_link
