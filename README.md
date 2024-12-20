@@ -1,5 +1,5 @@
 # PredmetyLN
-##***Методички***
+##***Методички 1,2,3***
 https://drive.google.com/drive/folders/1KjxM-HfNk420qPWxf5UPo1QQb-JdQw7b?usp=drive_link
 ____
 ##***БД***
