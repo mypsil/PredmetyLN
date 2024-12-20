@@ -1,4 +1,7 @@
 # PredmetyLN
+##***Методички***
+https://drive.google.com/drive/folders/1KjxM-HfNk420qPWxf5UPo1QQb-JdQw7b?usp=drive_link
+____
 ##***БД***
 https://drive.google.com/drive/folders/110OPMAtBYSp6aiewWBUhB8sGc5T5t6au?usp=drive_link
 ____
