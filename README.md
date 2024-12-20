@@ -8,10 +8,10 @@ ____
 ##***Впр 1,2***
 https://docs.google.com/document/d/1e-Eb17m61nzi-lGPWo70WfSpA4Ozx6DEIIFSiIyuAQ0/edit?usp=drive_link
 ____
-##***Конспект по Базам Даных***
+##***Конспект по Базам Даных,Степик***
 https://docs.google.com/document/d/1hb3_NNW-kKeu7RTFWZ8GjTDaxY_6FCIknt0_Z6yoENA/edit?usp=drive_link
 ____
-##***История операционных систем***
+##***История операционных систем,БАШ 2,3***
 https://docs.google.com/document/d/1V-1v0p9TiU7XIUcAs_vzaWe1B1sQmmDFIgHCv1c7yXQ/edit?usp=drive_link
 ____
 ##***Таблицы по базе данных "Учёт"***
