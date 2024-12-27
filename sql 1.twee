@@ -12,7 +12,7 @@ sql 1
 }
 
 
-:: DBbrowser {"position":"1000,400","size":"100,100"}
+:: DBbrowser {"position":"1100,375","size":"100,100"}
 <img
 src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
 </div>
@@ -33,10 +33,11 @@ src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241
 	•	Если используете другие СУБД (например, MySQL), настройте подключение через “File” → “Connect to Database” и введите данные для подключения.
 Теперь вы можете редактировать, создавать и управлять базами данных через графический интерфейс SQLDBBrowser.
 [[обратно|Как установть?]]
+[[Закрыть ]]
 </div>]]
 
 
-:: SQLDBBrowser {"position":"200,550","size":"100,100"}
+:: SQLDBBrowser {"position":"300,525","size":"100,100"}
 <img
 src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
 </div>
@@ -46,10 +47,12 @@ src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241
 [[определения]]
 [[функционал]]
  [[обратно|start]]
-</div>]
+[[запросы]]]
+[[Закрыть ]]
+</div>
 
 
-:: liberoffice Base {"position":"500,450","size":"100,100"}
+:: liberoffice Base {"position":"600,425","size":"100,100"}
 <img
 src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
 </div>
@@ -59,10 +62,12 @@ src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241
 [[определение]]
 [[как в нём работать? ]]
  [[обратно|start]]
-</div>]
+ [[запрос]]]
+ [[Закрыть ]]
+</div>
 
 
-:: liberofficeBase {"position":"900,200","size":"100,100"}
+:: liberofficeBase {"position":"1000,175","size":"100,100"}
 <img
 src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
 </div>
@@ -83,10 +88,11 @@ src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241
 	•	Для создания запросов, форм и отчетов используйте соответствующие вкладки на панели инструментов.
 Теперь вы можете начать работать с базой данных, добавлять таблицы, выполнять запросы и генерировать отчеты.
 [[обратно|Как установть?]]]
+[[Закрыть ]]
 </div>]
 
 
-:: start {"position":"400,300","size":"100,100"}
+:: start {"position":"500,300","size":"100,100"}
 <img
 src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
 </div>
@@ -99,10 +105,11 @@ src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241
 [[Синатксис]]
 [[liberoffice Base]]
 [[конец урока]]]
+[[Закрыть ]]
 </div>
 
 
-:: start1 {"position":"400,150","size":"100,100"}
+:: start1 {"position":"500,125","size":"100,100"}
 <img
 src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
 </div>
@@ -110,12 +117,17 @@ src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241
 
   (set: $fio to(prompt:"Как вас зовут?", ""))
 (text-colour:black)[[[Продолжим|start]]
+[[Закрыть ]]
 </div>]
 
 
+:: Закрыть\  {"position":"1850,325","size":"100,100"}
+<script>
+window.close();
+</script>
 
 
-:: Как установть? {"position":"700,300","size":"100,100"}
+:: Как установть? {"position":"800,275","size":"100,100"}
 <img
 src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
 </div>
@@ -124,16 +136,11 @@ src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241
 [[liberofficeBase]]
 [[DBbrowser]]
 [[вернутся обратно|start]]]
+[[Закрыть ]]
 </div>]
 
 
-
-
-
-
-
-
-:: Синатксис {"position":"800,500","size":"100,100"}
+:: Синатксис {"position":"900,475","size":"100,100"}
 <img
 src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
 </div>
@@ -154,11 +161,11 @@ ORDER BY salary DESC
 LIMIT 10;
 Этот запрос выбирает имена и зарплаты сотрудников из отдела "IT", сортирует их по зарплате в порядке убывания и ограничивает результат первыми 10 записями.
 [[вернутся обратно|start]]
+[[Закрыть ]]
 </div>]
 
 
-
-:: да {"position":"100,400","size":"100,100"}
+:: да {"position":"275,375","size":"100,100"}
 <img
 src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
 </div>
@@ -166,10 +173,335 @@ src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241
 <div class="transparent-box">
 (text-colour:black)[Спасибо я старалась! :)
 [[конец]]]
+[[Закрыть ]]
 </div>
 
 
-:: как в нём работать?\  {"position":"600,600","size":"100,100"}
+:: запрос {"position":"675,725","size":"100,100"}
+<img
+src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
+</div>
+<div class="transparent-box">
+(text-colour:black)[
+[[запрос 1]]
+[[запрос 2]]
+[[запрос 3]]
+[[запрос 4]]
+[[запрос 5]]
+[[запрос 6]]
+[[запрос 7]]
+[[запрос 8]]
+[[запрос 9]]
+[[запрос 10]]
+[[обратно|liberoffice Base]]
+[[сравнение]]]
+[[Закрыть ]]
+</div>
+
+
+:: запрос 1 {"position":"1075,550","size":"100,100"}
+<img
+src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
+</div>
+<img
+src=https://yougile.com/user-data/29757d2e-3663-4a38-b750-6ebdedf16832/%D0%BB%D0%B8%D0%B1%D1%80%D0%B5%201.png-256-preview@266x112.png>
+</div>
+<div class="transparent-box">
+(text-colour:black)[этот запрос выводит услуги которые стоят больше 100
+[[обратно|запрос]]]
+[[Закрыть ]]
+</div>
+
+
+:: запрос 10 {"position":"925,1075","size":"100,100"}
+<img
+src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
+</div>
+<img
+src=https://yougile.com/user-data/b4058c5c-805f-4c65-9c2c-85e071af20a2/10.png-256-preview@220x256.png>
+</div>
+<div class="transparent-box">
+(text-colour:black)[выводит заказ цена которого меньше 500
+[[обратно|запрос]]]
+[[Закрыть ]]
+</div>
+
+
+:: запрос 2 {"position":"1075,725","size":"100,100"}
+<img
+src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
+</div>
+<img
+src=https://yougile.com/user-data/c8b0d6a9-e886-4ad8-95f8-deabd0e2bb6e/2.png-256-preview@183x256.png>
+</div>
+<div class="transparent-box">
+(text-colour:black)[выводит всю информацию о таблице
+[[обратно|запрос]]]
+[[Закрыть ]]
+</div>
+
+
+:: запрос 3 {"position":"1075,1150","size":"100,100"}
+<img
+src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
+</div>
+<img
+src=https://yougile.com/user-data/4d357d0b-ce84-41c0-a3c6-e5418d498aba/3.png-256-preview@264x220.png>
+</div>
+<div class="transparent-box">
+(text-colour:black)[выводит услугу и имя кто заказал услугу
+[[обратно|запрос]]]
+[[Закрыть ]]
+</div>
+
+
+:: запрос 4 {"position":"1250,1100","size":"100,100"}
+<img
+src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
+</div>
+<img
+src=https://yougile.com/user-data/880612d4-f0ff-496f-a94a-be670f60a0ec/4.png-256-preview@231x260.png>
+</div>
+<div class="transparent-box">
+(text-colour:black)[выводит полную информацию об таблицы
+[[обратно|запрос]]]
+[[Закрыть ]]
+</div>
+
+
+:: запрос 5 {"position":"1075,1000","size":"100,100"}
+<img
+src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
+</div>
+<img
+src=https://yougile.com/user-data/20beed5b-1574-46a7-83d7-f23e958a0f50/5.png-256-preview@226x256.png>
+</div>
+<div class="transparent-box">
+(text-colour:black)[выводит название услуги и цену через псевдоним
+[[обратно|запрос]]]
+[[Закрыть ]]
+</div>
+
+
+:: запрос 6 {"position":"1150,850","size":"100,100"}
+<img
+src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
+</div>
+<img
+src=https://yougile.com/user-data/73a4a2c0-7153-4ae3-bca1-46fc16c0c408/6.png-256-preview@256x224.png>
+</div>
+<div class="transparent-box">
+(text-colour:black)[выводит полную информацию через псевдоним
+[[обратно|запрос]]]
+[[Закрыть ]]
+</div>
+
+
+:: запрос 7 {"position":"1275,600","size":"100,100"}
+<img
+src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
+</div>
+<img
+src=https://yougile.com/user-data/d0440c0d-42b6-4760-9062-9d042119aa1e/7.png-256-preview@125x256.png>
+</div>
+<div class="transparent-box">
+(text-colour:black)[выводит все уникальные транзакции
+[[обратно|запрос]]]
+[[Закрыть ]]
+</div>
+
+
+:: запрос 8 {"position":"1300,725","size":"100,100"}
+<img
+src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
+</div>
+<img
+src=https://yougile.com/user-data/e80138d0-202c-43d9-943f-5e22d8ef85de/8.png-256-preview@256x249.png>
+</div>
+<div class="transparent-box">
+(text-colour:black)[выводит первую запись из таблицы
+[[обратно|запрос]]]
+[[Закрыть ]]
+</div>
+
+
+:: запрос 9 {"position":"1325,950","size":"100,100"}
+<img
+src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
+</div>
+<img
+src=https://yougile.com/user-data/760a775a-e600-46e0-94e6-60978f9f2d0a/9.png-256-preview@413x224.png>
+</div>
+<div class="transparent-box">
+(text-colour:black)[выводит заказ сумма которого больше 1000
+[[обратно|запрос]]]
+[[Закрыть ]]
+</div>
+
+
+:: запрос1 {"position":"350,1250","size":"100,100"}
+<img
+src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
+</div>
+<img
+src=https://yougile.com/user-data/01e27fdb-a9d6-483b-ba27-0cb3eaa2447e/1.png-256-preview@414x187.png>
+</div>
+<div class="transparent-box">
+(text-colour:black)[этот запрос выводит услуги которые стоят больше 100
+[[обратно|запросы]]]
+[[Закрыть ]]
+</div>
+
+
+:: запрос10 {"position":"925,1375","size":"100,100"}
+<img
+src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
+</div>
+<img
+src=https://yougile.com/user-data/4205aa40-12f6-405e-acd9-a2290c3e9c9a/10.png-256-preview@411x276.png>
+</div>
+<div class="transparent-box">
+(text-colour:black)[выводит заказ цена которого меньше 500
+[[обратно|запросы]]]
+[[Закрыть ]]
+</div>
+
+
+:: запрос2 {"position":"425,1375","size":"100,100"}
+<img
+src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
+</div>
+<img
+src=https://yougile.com/user-data/02e0007a-c755-487b-83cd-cea1d30c164a/2.png-256-preview@163x276.png>
+</div>
+<div class="transparent-box">
+(text-colour:black)[выводит всю информацию о таблице
+[[обратно|запросы]]]
+[[Закрыть ]]
+</div>
+
+
+:: запрос3 {"position":"525,1250","size":"100,100"}
+<img
+src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
+</div>
+<img
+src=https://yougile.com/user-data/83778d6f-7ff3-4611-900e-a774ec162371/3.png-256-preview@256x253.png>
+</div>
+<div class="transparent-box">
+(text-colour:black)[выводит услугу и имя кто заказал услугу
+[[обратно|запросы]]]
+[[Закрыть ]]
+</div>
+
+
+:: запрос4 {"position":"625,1250","size":"100,100"}
+<img
+src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
+</div>
+<img
+src=https://yougile.com/user-data/36b21653-d0a9-47b3-8547-6d943a04ac1b/4.png-256-preview@251x277.png>
+</div>
+<div class="transparent-box">
+(text-colour:black)[выводит полную информацию об таблицы
+[[обратно|запросы]]]
+[[Закрыть ]]
+</div>
+
+
+:: запрос5 {"position":"750,1250","size":"100,100"}
+<img
+src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
+</div>
+<img
+src=https://yougile.com/user-data/0081cbb7-beb3-460a-ba9f-02845c57f640/5.png-256-preview@204x268.png>
+</div>
+<div class="transparent-box">
+(text-colour:black)[выводит название услуги и цену через псевдоним
+[[обратно|запросы]]]
+[[Закрыть ]]
+</div>
+
+
+:: запрос6 {"position":"900,1225","size":"100,100"}
+<img
+src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
+</div>
+<img
+src=https://yougile.com/user-data/e4115686-07fa-41e4-9dd0-e7ce0bb5d0fc/6.png-256-preview@256x224.png>
+</div>
+<div class="transparent-box">
+(text-colour:black)[выводит полную информацию через псевдоним
+[[обратно|запросы]]]
+[[Закрыть ]]
+</div>
+
+
+:: запрос7 {"position":"550,1400","size":"100,100"}
+<img
+src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
+</div>
+<img
+src=https://yougile.com/user-data/d9440b13-52c3-4bc0-9fa2-8588d0fa3a5e/7.png-256-preview@157x265.png>
+</div>
+<div class="transparent-box">
+(text-colour:black)[выводит все уникальные транзакции
+[[обратно|запросы]]]
+[[Закрыть ]]
+</div>
+
+
+:: запрос8 {"position":"675,1400","size":"100,100"}
+<img
+src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
+</div>
+<img
+src=https://yougile.com/user-data/dd360c05-a055-41e6-a15f-b353c2c08343/8.png-256-preview@256x225.png>
+</div>
+<div class="transparent-box">
+(text-colour:black)[выводит первую запись из таблицы
+[[обратно|запросы]]]
+[[Закрыть ]]
+</div>
+
+
+:: запрос9 {"position":"800,1375","size":"100,100"}
+<img
+src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
+</div>
+<img
+src=https://yougile.com/user-data/1dd04dd7-96ce-4884-b2fc-a75e4d893069/9.png-256-preview@413x276.png>
+</div>
+<div class="transparent-box">
+(text-colour:black)[выводит заказ сумма которого больше 1000
+[[обратно|запросы]]]
+[[Закрыть ]]
+</div>
+
+
+:: запросы {"position":"550,750","size":"100,100"}
+<img
+src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
+</div>
+<div class="transparent-box">
+(text-colour:black)[
+[[запрос1]]
+[[запрос2]]
+[[запрос3]]
+[[запрос4]]
+[[запрос5]]
+[[запрос6]]
+[[запрос7]]
+[[запрос8]]
+[[запрос9]]
+[[запрос10]]
+[[обратно|SQLDBBrowser]]
+[[сравнение]]]
+[[Закрыть ]]
+</div>
+
+
+:: как в нём работать?\  {"position":"700,575","size":"100,100"}
 <img
 src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
 </div>
@@ -186,20 +518,23 @@ src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241
 	•	Интеграция с другими компонентами LibreOffice.
 
 [[обратно|liberoffice Base]]]
+[[Закрыть ]]
 </div>
 
 
-:: конец {"position":"0,250","size":"100,100"}
+:: конец {"position":"125,225","size":"100,100"}
 <img
 src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
 </div>
 
 <div class="transparent-box">
 (text-colour:black)[Поздравляю, ты прошел мой урок!!!  :)
+[[Закрыть ]]
 </div>]
 
 
-:: конец урока {"position":"225,250","size":"100,100"}
+
+:: конец урока {"position":"375,225","size":"100,100"}
 <img
 src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
 </div>
@@ -208,10 +543,11 @@ src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241
 (text-colour:black)[тебе понравился урок?
 [[да]]
 [[нет]]]
+[[Закрыть ]]
 </div>
 
 
-:: нет {"position":"100,125","size":"100,100"}
+:: нет {"position":"250,100","size":"100,100"}
 <img
 src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
 </div>
@@ -219,31 +555,64 @@ src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241
 <div class="transparent-box">
 (text-colour:black)[Грустно :(
 [[конец]]]
+[[Закрыть ]]
 </div>
 
 
-:: определение {"position":"400,600","size":"100,100"}
+:: определение {"position":"500,575","size":"100,100"}
 <img
 src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
 </div>
 <div class="transparent-box">
 (text-colour:black)[LibreOffice Base — это компонент пакета LibreOffice для создания и управления базами данных. Он позволяет создавать, редактировать и управлять таблицами, запросами, формами и отчетами.
 [[обратно|liberoffice Base]]]
+[[Закрыть ]]
 </div>
 
 
-
-:: определения {"position":"100,750","size":"100,100"}
+:: определения {"position":"200,725","size":"100,100"}
 <img
 src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
 </div>
 <div class="transparent-box">
 (text-colour:black)[SQLDBBrowser — это графический инструмент для работы с SQL-базами данных. Он позволяет пользователям просматривать, редактировать и управлять данными без необходимости писать SQL-запросы вручную. Поддерживает различные типы баз данных, такие как MySQL, PostgreSQL, SQLite и другие.
 [[обратно|SQLDBBrowser]]]
+[[Закрыть ]]
 </div>
 
 
-:: функционал {"position":"300,750","size":"100,100"}
+:: сравнение {"position":"800,925","size":"100,100"}
+<img
+src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
+</div>
+<div class="transparent-box">
+(text-colour:black)[Типы баз данных:
+SQLDBrowser: Работает только с SQLite.
+LibreOffice Base: Поддерживает SQLite, MySQL, PostgreSQL и другие.
+Интерфейс пользователя:
+SQLDBrowser: Простой и минималистичный, ориентирован на выполнение SQL-запросов.
+LibreOffice Base: Более сложный, с возможностью создания форм и отчетов.
+Создание и управление таблицами:
+SQLDBrowser: Основные функции через SQL-запросы, ограниченные возможности.
+LibreOffice Base: Удобные инструменты для создания и управления таблицами визуально.
+Поддержка SQL:
+SQLDBrowser: Полная поддержка SQL-запросов.
+LibreOffice Base: Поддержка SQL и графический интерфейс для создания запросов.
+Отчеты и формы:
+SQLDBrowser: Нет инструментов для создания отчетов.
+LibreOffice Base: Мощные инструменты для отчетности и форм.
+Пользовательская поддержка:
+SQLDBrowser: Ограниченная документация и поддержка.
+LibreOffice Base: Обширная документация и активное сообщество.
+Портативность:
+SQLDBrowser: Легко переносим, работает с файлами SQLite.
+LibreOffice Base: Требует настройки для работы с различными источниками данных.
+[[обратно|start]]]
+[[Закрыть ]]
+</div>
+
+
+:: функционал {"position":"400,725","size":"100,100"}
 <img
 src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241011_112938_609.jpg-256-preview@288x224.png>
 </div>
@@ -260,9 +629,8 @@ src=https://yougile.com/user-data/95a83b93-9550-413f-b53d-097d5cadea99/IMG_20241
 	•	Позволяет работать в реальном времени через графический интерфейс.
 	•	Подходит как для новичков, так и для опытных пользователей.
     [[обратно|SQLDBBrowser]]]
+    [[Закрыть ]]
 </div>
-
-
 
 
 :: StoryStylesheet [stylesheet]
@@ -288,4 +656,3 @@ border-radius: 10px;
 padding: 20px;
 background-color: rgba(255, 255, 255, 0.8);
 }
-
